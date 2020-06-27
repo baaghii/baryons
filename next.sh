@@ -1,1 +1,1 @@
-mkdir -p /home/Testing && cd /home/Testing && touch file1 && ls -ltr 
+mkdir -p /home/Testing && cd /home/Testing && touch file1 && ls -l
